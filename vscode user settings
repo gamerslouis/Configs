@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 16,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.fontFamily": "FiraCode, 'Source Code Pro', Consolas, 'Microsoft JhengHei', 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.minimap.renderCharacters": false,
+    "files.autoSave": "onFocusChange",
+    "files.autoGuessEncoding": true,
+    "workbench.iconTheme": "vscode-icons"
+    
+}
